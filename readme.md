@@ -15,3 +15,5 @@ INSERT INTO "Books" ("code","title","author","stock") VALUES ('JK-45','Harry Pot
 
 INSERT INTO "Members" ("code","name") VALUES ('M001', 'Angga'),('M002', 'Ferry'),('M003', 'Putri') RETURNING "code","name";
 ```
+
+### Hasil untuk soal algoritma ada pada algoritma.md
